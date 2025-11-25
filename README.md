@@ -66,7 +66,12 @@ return V, pi
 
 ## OUTPUT:
 ### 1. Policy, Value function and success rate for the Adversarial Policy
-<img width="1137" height="573" alt="image" src="https://github.com/user-attachments/assets/5d349dcc-bc2e-4a4c-8450-16e9d4020481" />
+<img width="1100" height="338" alt="image" src="https://github.com/user-attachments/assets/41ed58f8-3fb2-4493-b225-45625bb377b7" />
+<img width="1125" height="153" alt="image" src="https://github.com/user-attachments/assets/8731d9ba-ba2c-4579-a677-c8d130cc4286" />
+<img width="756" height="202" alt="image" src="https://github.com/user-attachments/assets/3f076f41-2627-40e2-9bd1-40e85eafab51" />
+
+
+
 
 
 ### 2. Policy, Value function and success rate for the Improved Policy
