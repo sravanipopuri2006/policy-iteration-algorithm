@@ -66,14 +66,23 @@ return V, pi
 
 ## OUTPUT:
 ### 1. Policy, Value function and success rate for the Adversarial Policy
-<img width="779" height="277" alt="image" src="https://github.com/user-attachments/assets/7fe86765-3ef2-48ff-a35f-ad9008933cfc" />
+<img width="1137" height="573" alt="image" src="https://github.com/user-attachments/assets/5d349dcc-bc2e-4a4c-8450-16e9d4020481" />
+
 
 ### 2. Policy, Value function and success rate for the Improved Policy
-<img width="956" height="146" alt="image" src="https://github.com/user-attachments/assets/4b646340-af63-4df5-be2e-96d07aa50fcf" />
+<img width="999" height="239" alt="image" src="https://github.com/user-attachments/assets/e0032dee-e9dc-4c33-8a18-7482d3964b9c" />
+<img width="996" height="336" alt="image" src="https://github.com/user-attachments/assets/34d18816-c0b7-43b3-a0ce-2a87f0dda2b7" />
+
+
 
 
 ### 3. Policy, Value function and success rate after policy iteration
-<img width="693" height="224" alt="image" src="https://github.com/user-attachments/assets/a77e431a-b7d2-4629-a31c-74dc3838d2dd" />
+<img width="956" height="247" alt="image" src="https://github.com/user-attachments/assets/12fb9a24-b282-40c4-935a-3810cfcd1d46" />
+<img width="1059" height="201" alt="image" src="https://github.com/user-attachments/assets/1a3bd05b-7790-4774-a0ac-e888020b299a" />
+<img width="986" height="117" alt="image" src="https://github.com/user-attachments/assets/1085885e-bda5-474c-ac03-6392a49fa481" />
+
+
+
 
 
 ## RESULT:
